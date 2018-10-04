@@ -1,0 +1,21 @@
+
+# Licensed to the Apache Software Foundation (ASF) under one or more contributor
+# license agreements; and to You under the Apache License, Version 2.0.
+
+# Gradle
+.gradle
+build/
+tests/credentials.json
+.project
+tests/.cache-main
+tests/.classpath
+tests/.gitignore
+tests/.project
+tests/.settings/
+
+# NodeJS
+node_modules/
+
+# IntelliJ
+.idea
+out/
